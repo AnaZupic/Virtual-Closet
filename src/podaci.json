@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "vrsta": "Majica",
+      "boja": "Crvena",
+      "prigoda": "Slobodno vrijeme"
+    },
+    {
+      "id": 2,
+      "vrsta": "Hlače",
+      "boja": "Plava",
+      "prigoda": "Posao"
+    },
+    {
+      "id": 3,
+      "vrsta": "Haljina",
+      "boja": "Crna",
+      "prigoda": "Posebna prigoda"
+    }
+  ]
+  
