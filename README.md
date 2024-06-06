@@ -1,5 +1,5 @@
 # Virtual Closet
-### This project presents a virtual closet used for viewing clothes.
+This project presents a virtual closet used for viewing clothes.
 ## Features
 ### - adding new clothes
 ### - deleting existing clothes
